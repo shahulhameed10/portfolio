@@ -1,6 +1,6 @@
 import { DiJavascript1 } from "react-icons/di";
 import { FaJava, FaReact, FaGithub,FaFigma } from "react-icons/fa";
-import { SiNextdotjs, SiExpress, SiMongodb, SiTailwindcss,  SiCplusplus,  SiAmazonaws } from "react-icons/si";
+import { SiNextdotjs, SiExpress, SiMongodb, SiTailwindcss,  SiCplusplus,  SiAmazonaws, SiPostgresql,SiTypescript } from "react-icons/si";
 import { SiNodedotjs } from "react-icons/si";
 import { SiOpenai,SiSpring,SiMysql,SiBootstrap } from "react-icons/si";
 
@@ -13,6 +13,14 @@ export const SkillsData = [
 	{
 		name: "Next.js",
 		icon: <SiNextdotjs />,
+	},
+	{
+		name: "TypeScript",
+		icon: <SiTypescript />,
+	},
+	{
+		name: "PostgreSQL",
+		icon: <SiPostgresql />,
 	},
 	{
 		name: "JavaScript",
