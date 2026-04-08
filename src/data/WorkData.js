@@ -1,5 +1,12 @@
 export const ProjectData = [
     {
+        title: "Collab Flow (Workspace Management App)",
+        desc: "A web app that helps you manage your projects and collaborate with your team.",
+        tech: ["React.js", "Node.js", "ExpressJs", "JWT", "Redux", "TypeScript", "PostgreSQL", "TailwindCss", "websocket","Redis"],
+        gitlink: "https://github.com/shahulhameed10/Collab_Flow",
+        site: "https://colflow.netlify.app/",
+    },
+    {
         title: "AI-Interview Mocker",
         desc: "A web app that helps you prepare for your next interview by generating questions and answers based on your preferred tech stack.",
         tech: ["React.js", "Google-genAI", "Shadcn", "TailwindCss", "NeonDb", "Drizzle", "Clerk"],
