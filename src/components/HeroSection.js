@@ -5,7 +5,7 @@ import { BiDownload } from "react-icons/bi";
 import { AiOutlineArrowUp } from "react-icons/ai";
 import { animateScroll as scroll } from "react-scroll";
 import { motion } from "framer-motion";
-import CV from "../data/Shahul_Hameed.pdf";
+import CV from "../data/Shahul_Hameed_resume.pdf";
 
 const HeroSection = ({ nav, handleNav }) => {
 	const scrollToTop = () => {

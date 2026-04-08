@@ -1,6 +1,6 @@
 export const ProjectData = [
     {
-        title: "Collab Flow (Workspace Management App)",
+        title: "Collab Flow",
         desc: "A web app that helps you manage your projects and collaborate with your team.",
         tech: ["React.js", "Node.js", "ExpressJs", "JWT", "Redux", "TypeScript", "PostgreSQL", "TailwindCss", "websocket","Redis"],
         gitlink: "https://github.com/shahulhameed10/Collab_Flow",
